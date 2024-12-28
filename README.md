@@ -1,6 +1,8 @@
 # Spam-Detection-Project
 Spam Detection Project Code, Document And Video Tutorial
 
+![SPam Classifier'](https://github.com/user-attachments/assets/4d50fb03-661e-44ad-a69f-d3e5fa53fe9f)
+
 ## Youtube link: https://youtu.be/UYmEsBvaKH8?si=4TOm5d07pwLmk_Im
 
 ## Abstract
