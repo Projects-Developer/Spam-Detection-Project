@@ -1,4 +1,4 @@
-# Spam-Detection-Project
+# Spam Detection Project
 Spam Detection Project Code, Document And Video Tutorial
 
 ![SPam Classifier'](https://github.com/user-attachments/assets/4d50fb03-661e-44ad-a69f-d3e5fa53fe9f)
